@@ -13,7 +13,7 @@ html {
 
 .wrapper {
   display: flex;
-  /* background-color: red; */
+
   flex-wrap: wrap;
 }
 .keys {
@@ -23,7 +23,7 @@ html {
   min-height: 100vh;
   align-items: center;
   justify-content: center;
-  background: linear-gradient(to right, rgba(0 0 0/0.7a), rgba(0 0 0 /0.5));
+  background: linear-gradient(to right, rgba(0 0 0/0.7), rgba(0 0 0 /0.5));
 }
 
 .key {
